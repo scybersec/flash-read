@@ -2,7 +2,7 @@
 
 ## Description
 
-Flash-Read is a web application built with React that enables users to view and summarize articles. The application uses an API called "article-extractor-and-summarizer" to fetch and summarize articles.
+Flash-Read is a web application built with React, React-Redux and Tailwind-CSS that enables users to view and summarize articles.
 
 ## Components
 
@@ -18,5 +18,5 @@ To run the application locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the necessary dependencies by running `npm install` in the project directory.
-3. Start the development server by running `npm start`.
+3. Start the development server by running `npm run dev`.
 4. Open your web browser and navigate to `http://localhost:3000` to view the application.
