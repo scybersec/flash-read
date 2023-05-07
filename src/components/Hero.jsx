@@ -11,7 +11,7 @@ const Hero = () => {
         
             <button 
                 type='button'
-                onClick={() => window.open('https://github.com/scybersec')}
+                onClick={() => window.open('https://github.com/scybersec/flash-read')}
                 className='black_btn glassmorphism font-robotoC'
             >
                 View Code
